@@ -23,7 +23,7 @@ Problem Statement:
 
 I am interested to use this dataset to learn about the incoming value into the US. It can also prove to useful to predict the daily, weekly, monthly or annual traffic that’s going to accumulate on the borders so that the authorities can be aware of the number beforehand.
 
-This is an interesting dataset, great for exercising pandas skills and analysis. I will be trying some modelling.
+This is an interesting dataset, great for exercising pandas skills and analysis. I will be trying some Machine Learning , but it is not so many options to do modeling with categorical data.  
 
 Definitions:
 
